@@ -1,0 +1,10 @@
+langchain-openai
+langchain-core
+tiktoken
+langchain
+langchain-community
+chainlit
+uvicorn
+pymupdf
+qdrant-client
+ragas
